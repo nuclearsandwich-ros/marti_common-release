@@ -1,1 +1,1 @@
-{"trim": "", "base": "5d6f560ed", "trimbase": "", "parent": "debian/foxy/swri_console_util", "previous": "6a961e809"}
+{"base": "cb6ec5dfb", "parent": "debian/rolling/swri_console_util", "previous": "2187c09f9", "trim": "", "trimbase": ""}
