@@ -1,1 +1,1 @@
-{"trim": "", "base": "3b1cf3e7a", "trimbase": "", "parent": "debian/foxy/swri_geometry_util", "previous": "dbb2a1b49"}
+{"base": "a812b3701", "parent": "debian/rolling/swri_geometry_util", "previous": "34e599921", "trim": "", "trimbase": ""}
