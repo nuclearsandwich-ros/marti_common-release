@@ -1,1 +1,1 @@
-{"base": "e8f01f42a", "parent": "debian/rolling/swri_math_util", "previous": "df9e3c980", "trim": "", "trimbase": ""}
+{"base": "844ff3120", "parent": "debian/humble/swri_math_util", "previous": "7f50a2eab", "trim": "", "trimbase": ""}
