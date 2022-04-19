@@ -1,1 +1,1 @@
-{"base": "6094d3fb1", "parent": "debian/rolling/swri_serial_util", "previous": "10f1fbc6e", "trim": "", "trimbase": ""}
+{"base": "20e56a954", "parent": "debian/humble/swri_serial_util", "previous": "20f0e3d9c", "trim": "", "trimbase": ""}
